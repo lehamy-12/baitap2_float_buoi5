@@ -1,0 +1,88 @@
+body{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caption{
+    width: 100%;
+    height: 100px;
+    background-color: #FAD0C4;
+}
+.menu{
+    width: 100%;
+    height:30px;
+    background-color: #E6B2BA;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+.home{
+    width: 10%;
+    float:left;
+}
+.aboutus{
+    width: 10%;
+    float:left;
+}
+.contactus{
+    width: 10%;
+    float:left;
+}
+.feedback{
+    width: 10%;
+    float:left;
+}
+.faqs{
+    width: 10%;
+    float:left;
+}
+.myaccount{
+    width: 10%;
+    float:left;
+}
+.english{
+    width: 10%;
+    float:right;
+}
+.tiengviet{
+    width: 10%;
+    float:right;
+}
+.content{
+    float: left;
+    width: 60%;
+}
+.image{
+    width: 100%;
+    border: white;
+    height: 500px;
+}
+.right{
+    background-color: #C599B6;
+    float:left;
+    width: 40%;
+}
+.right-top{
+    border-radius: 10px;
+    border: 2px solid white;
+    width: 100%;
+    height: 150px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.right-left{
+    border-radius: 10px;
+    border: 2px solid white;
+    width: 49%;
+    height: 300px;
+    float: left;
+    margin-bottom: 5px;
+}
+.right-right{
+    border-radius: 10px;
+    border: 2px solid white;
+    width: 49%;
+    height: 300px;
+    float: right;
+    margin-bottom: 5px;
+}
+
